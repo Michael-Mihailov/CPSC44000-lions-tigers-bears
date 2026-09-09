@@ -1,0 +1,17 @@
+Copyright © 2026 Michael Mihailov
+
+All rights reserved.
+
+This project and its original content may not be reproduced, distributed, modified,
+published, or used without the express written permission of the copyright holder.
+
+This license applies only to original content created by Michael Mihailov. Non-original
+content is identified and credited in the accompanying README.md file and remains
+subject to the rights of its respective copyright holders.
+
+The dog breed data and images displayed by this application are provided by the Dog API
+and are not owned by Michael Mihailov.
+
+The application was developed by following the tutorial “Dogs, JavaScript & An API 🐶
+Fetch, Promises & Async Await” by Brad Schiff / LearnWebCode. Brad Schiff is credited
+as the creator of the tutorial and the original non-original material derived from it.
